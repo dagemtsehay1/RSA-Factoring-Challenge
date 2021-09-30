@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """This module contains helper functions for all the other modules used in this
     project
 """
